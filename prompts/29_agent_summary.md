@@ -1,6 +1,6 @@
 # Agent Summary (Background Progress)
 
-**Source:** `src/services/AgentSummary/agentSummary.ts`
+**Observed in**: Claude Code internal architecture
 **Model:** Small fast model (Haiku)
 
 ## Purpose

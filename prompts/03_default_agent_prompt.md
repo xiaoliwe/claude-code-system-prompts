@@ -1,6 +1,6 @@
 # Default Agent Prompt
 
-> **Source**: `src/constants/prompts.ts` line 758
+> **Observed in**: Claude Code internal architecture
 >
 > Base prompt used for all sub-agents spawned by the `Agent` tool.
 > Enhanced at runtime by `enhanceSystemPromptWithEnvDetails()` which appends agent-specific notes and environment info.

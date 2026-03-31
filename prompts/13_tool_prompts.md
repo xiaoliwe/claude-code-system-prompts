@@ -1,6 +1,6 @@
 # Tool-Specific Prompts
 
-> **Source**: `src/tools/*/prompt.ts`
+> **Observed in**: Claude Code internal architecture
 >
 > Each tool in Claude Code has its own description/prompt that is injected into the tool schema. These guide the model on when and how to use each tool.
 
@@ -8,7 +8,7 @@
 
 ## Bash Tool (`Bash`)
 
-> Source: `src/tools/BashTool/prompt.ts`
+> Observed in: Claude Code tool system
 
 ```
 Executes a given bash command and returns its output.
@@ -61,7 +61,7 @@ When sandboxing is enabled, the Bash tool includes filesystem and network restri
 
 ## File Edit Tool (`Edit`)
 
-> Source: `src/tools/FileEditTool/prompt.ts`
+> Observed in: Claude Code tool system
 
 ```
 Performs exact string replacements in files.
@@ -79,7 +79,7 @@ Usage:
 
 ## Agent Tool
 
-> Source: `src/tools/AgentTool/prompt.ts`
+> Observed in: Claude Code tool system
 
 ```
 Launch a new agent to handle complex, multi-step tasks autonomously.

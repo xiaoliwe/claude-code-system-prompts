@@ -1,6 +1,6 @@
 # Permission Explainer System Prompt
 
-> **Source**: `src/utils/permissions/permissionExplainer.ts`
+> **Observed in**: Claude Code internal architecture
 >
 > A lightweight side-query that explains what a tool/command does, why it's being run, and its risk level before the user approves it. Uses structured tool output for guaranteed JSON responses.
 

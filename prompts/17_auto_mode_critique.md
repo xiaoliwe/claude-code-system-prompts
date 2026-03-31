@@ -1,6 +1,6 @@
 # Auto Mode Critique Prompt
 
-> **Source**: `src/cli/handlers/autoMode.ts`
+> **Observed in**: Claude Code internal architecture
 >
 > Reviews user-written auto-mode classifier rules for quality. Invoked via `claude auto-mode critique`.
 

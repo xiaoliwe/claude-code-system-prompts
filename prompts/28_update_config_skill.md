@@ -1,6 +1,6 @@
 # Update Config Skill (/update-config)
 
-**Source:** `src/skills/bundled/updateConfig.ts` (bundled binary)
+**Observed in**: Claude Code internal architecture
 **Registration:** `registerBundledSkill('update-config', ...)`
 **Availability:** All users
 

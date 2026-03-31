@@ -1,6 +1,6 @@
 # Simple Mode System Prompt
 
-> **Source**: `src/constants/prompts.ts` line 450–453
+> **Observed in**: Claude Code internal architecture
 >
 > Activated when `CLAUDE_CODE_SIMPLE=true` environment variable is set.
 > Replaces the entire dynamic system prompt with this minimal version.

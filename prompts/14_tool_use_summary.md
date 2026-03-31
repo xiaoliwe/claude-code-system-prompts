@@ -1,6 +1,6 @@
 # Tool Use Summary Generator
 
-> **Source**: `src/services/toolUseSummary/toolUseSummaryGenerator.ts`
+> **Observed in**: Claude Code internal architecture
 >
 > Uses Haiku to generate a short, git-commit-style label summarizing what tool calls accomplished. Displayed as a single-line row in mobile apps.
 

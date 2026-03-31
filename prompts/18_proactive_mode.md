@@ -1,6 +1,6 @@
 # Proactive / Autonomous Mode
 
-> **Source**: `src/constants/prompts.ts` → `getProactiveSection()` (lines 860–914)
+> **Observed in**: Claude Code internal architecture
 >
 > Feature-gated behind `PROACTIVE` or `KAIROS` flags. Activates full autonomous agent behavior with tick-based keep-alive, pacing, and terminal focus awareness.
 

@@ -1,6 +1,6 @@
 # Remember Skill (/remember)
 
-**Source:** `src/skills/bundled/remember.ts` (bundled binary)
+**Observed in**: Claude Code internal architecture
 **Registration:** `registerBundledSkill('remember', ...)`
 **Availability:** All users
 

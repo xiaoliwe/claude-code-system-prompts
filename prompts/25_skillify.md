@@ -1,6 +1,6 @@
 # Skillify Skill (/skillify)
 
-**Source:** `src/skills/bundled/skillify.ts` (bundled binary)
+**Observed in**: Claude Code internal architecture
 **Registration:** `registerBundledSkill('skillify', ...)`
 **Availability:** All users
 

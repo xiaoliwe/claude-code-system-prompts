@@ -1,6 +1,6 @@
 # Chrome Browser Automation (Claude-in-Chrome)
 
-**Source:** `src/utils/claudeInChrome/prompt.ts`
+**Observed in**: Claude Code internal architecture
 **Variables:** `BASE_CHROME_PROMPT`, `CHROME_TOOL_SEARCH_INSTRUCTIONS`, `CLAUDE_IN_CHROME_SKILL_HINT`, `CLAUDE_IN_CHROME_SKILL_HINT_WITH_WEBBROWSER`
 
 ## Purpose

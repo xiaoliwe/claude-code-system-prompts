@@ -1,6 +1,6 @@
 # Session Title Generator
 
-**Source:** `src/utils/sessionTitle.ts`
+**Observed in**: Claude Code internal architecture
 **Variable:** `SESSION_TITLE_PROMPT`
 **Model:** Haiku (via `queryHaiku`)
 **Output Format:** JSON (`{ "title": "..." }`)

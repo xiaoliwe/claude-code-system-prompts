@@ -1,6 +1,6 @@
 # Cyber Risk Instruction
 
-> **Source**: `src/constants/cyberRiskInstruction.ts`
+> **Observed in**: Claude Code internal architecture
 >
 > **OWNED BY**: Safeguards team (David Forsythe, Kyla Guru)
 >

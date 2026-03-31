@@ -1,6 +1,6 @@
 # Memory Instruction (CLAUDE.md System)
 
-**Source:** `src/utils/claudemd.ts`
+**Observed in**: Claude Code internal architecture
 **Variable:** `MEMORY_INSTRUCTION_PROMPT`
 
 ## Purpose

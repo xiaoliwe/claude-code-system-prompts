@@ -1,6 +1,6 @@
 # Stuck Skill (/stuck)
 
-**Source:** `src/skills/bundled/stuck.ts` (bundled binary)
+**Observed in**: Claude Code internal architecture
 **Registration:** `registerBundledSkill('stuck', ...)`
 **Availability:** Internal only (`process.env.USER_TYPE === 'ant'`)
 

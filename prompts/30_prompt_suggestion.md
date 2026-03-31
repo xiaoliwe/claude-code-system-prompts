@@ -1,6 +1,6 @@
 # Prompt Suggestion Service
 
-**Source:** `src/services/PromptSuggestion/promptSuggestion.ts`
+**Observed in**: Claude Code internal architecture
 **Variable:** `SUGGESTION_PROMPT`
 **Model:** Small fast model (Haiku)
 

@@ -1,6 +1,6 @@
 # Coordinator System Prompt
 
-> **Source**: `src/coordinator/coordinatorMode.ts` → `getCoordinatorSystemPrompt()`
+> **Observed in**: Claude Code internal architecture
 >
 > The most complex prompt in Claude Code. Defines a multi-worker orchestration system for coordinating parallel software engineering tasks.
 

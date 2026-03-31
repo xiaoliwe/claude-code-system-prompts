@@ -1,6 +1,6 @@
 # Compact Service (Conversation Summarization)
 
-**Source:** `src/services/compact/prompt.ts`
+**Observed in**: Claude Code internal architecture
 **Variables:** `NO_TOOLS_PREAMBLE`, `BASE_COMPACT_PROMPT`, `PARTIAL_COMPACT_PROMPT`, `PARTIAL_COMPACT_UP_TO_PROMPT`
 **Model:** Sonnet (via cache-sharing fork or streaming fallback)
 

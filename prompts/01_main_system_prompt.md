@@ -1,6 +1,6 @@
 # Main System Prompt
 
-> **Source**: `src/constants/prompts.ts` → `getSystemPrompt()`
+> **Observed in**: Claude Code internal architecture
 >
 > This is the dynamically assembled master prompt. The sections below are concatenated at runtime based on feature flags, enabled tools, and environment variables.
 

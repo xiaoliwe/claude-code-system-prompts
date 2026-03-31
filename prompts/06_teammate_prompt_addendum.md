@@ -1,6 +1,6 @@
 # Teammate Prompt Addendum
 
-> **Source**: `src/utils/swarm/teammatePromptAddendum.ts`
+> **Observed in**: Claude Code internal architecture
 >
 > Appended to the main system prompt when running in team/swarm mode, enabling inter-agent communication.
 

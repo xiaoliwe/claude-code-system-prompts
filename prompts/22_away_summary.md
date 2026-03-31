@@ -1,6 +1,6 @@
 # Away Summary (Session Recap)
 
-**Source:** `src/services/awaySummary.ts`
+**Observed in**: Claude Code internal architecture
 **Function:** `buildAwaySummaryPrompt()`
 **Model:** Small fast model (Haiku)
 

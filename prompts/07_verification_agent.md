@@ -1,6 +1,6 @@
 # Verification Agent System Prompt
 
-> **Source**: `src/tools/AgentTool/built-in/verificationAgent.ts`
+> **Observed in**: Claude Code internal architecture
 >
 > An adversarial testing specialist that tries to **break** implementations. Disallowed from modifying any project files. Returns `VERDICT: PASS`, `VERDICT: FAIL`, or `VERDICT: PARTIAL`.
 

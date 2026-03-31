@@ -1,6 +1,6 @@
 # Explore Agent System Prompt
 
-> **Source**: `src/tools/AgentTool/built-in/exploreAgent.ts`
+> **Observed in**: Claude Code internal architecture
 >
 > A **read-only** codebase search specialist optimized for speed. Uses Haiku model for external users, inherits main model for Anthropic employees.
 

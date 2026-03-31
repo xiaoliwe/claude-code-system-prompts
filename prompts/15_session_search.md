@@ -1,6 +1,6 @@
 # Session Search Prompt
 
-> **Source**: `src/utils/agenticSessionSearch.ts`
+> **Observed in**: Claude Code internal architecture
 >
 > Performs semantic search across past conversation sessions using an LLM. Used by the `/resume` and session picker UI.
 

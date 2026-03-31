@@ -1,6 +1,6 @@
 # YOLO/Auto-Mode Classifier System
 
-> **Source**: `src/utils/permissions/yoloClassifier.ts`
+> **Observed in**: Claude Code internal architecture
 >
 > A 2-stage security classification system that determines whether tool invocations should be auto-approved or blocked. This is the core of Claude Code's "auto-approve" mode.
 

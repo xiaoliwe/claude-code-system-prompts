@@ -1,6 +1,6 @@
 # Agent Creation Architect System Prompt
 
-> **Source**: `src/components/agents/generateAgent.ts`
+> **Observed in**: Claude Code internal architecture
 >
 > Designs new agent configurations by translating user requirements into agent specifications (identifier, whenToUse, systemPrompt).
 

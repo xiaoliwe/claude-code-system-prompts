@@ -1,6 +1,6 @@
 # Status Line Setup Agent System Prompt
 
-> **Source**: `src/tools/AgentTool/built-in/statuslineSetup.ts`
+> **Observed in**: Claude Code internal architecture
 >
 > Configures the user's Claude Code terminal status line by extracting shell PS1 configurations and converting them to the `statusLine` setting format.
 

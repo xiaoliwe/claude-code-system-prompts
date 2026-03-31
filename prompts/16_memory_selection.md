@@ -1,6 +1,6 @@
 # Memory Selection Prompt
 
-> **Source**: `src/memdir/findRelevantMemories.ts`
+> **Observed in**: Claude Code internal architecture
 >
 > Selects up to 5 memory files from the user's `.claude/` memory directory that are relevant to the current query. Uses Sonnet for high-quality semantic matching.
 
